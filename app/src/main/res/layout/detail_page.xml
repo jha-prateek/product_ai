@@ -9,6 +9,7 @@
 
 
     <TextView
+        android:id="@+id/back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -16,6 +17,8 @@
         android:layout_marginBottom="23dp"
         android:fontFamily="@font/audiowide"
         android:gravity="center"
+        android:clickable="true"
+        android:focusable="true"
         android:text="ProductAI"
         android:textColor="#ffffff"
         android:textSize="27sp" />
