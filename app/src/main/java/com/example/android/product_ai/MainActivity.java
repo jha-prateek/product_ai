@@ -117,7 +117,6 @@ public class MainActivity extends Activity{
                 Intent intent = new Intent(getApplicationContext(),detailPage.class);
                 intent.putStringArrayListExtra("byteArr",classifiedLabel);
                 intent.putParcelableArrayListExtra("images",bitmaps);
-//                intent.putExtra("label",label);
                 startActivity(intent);
             }
         });
