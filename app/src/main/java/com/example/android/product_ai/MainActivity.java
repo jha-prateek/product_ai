@@ -33,8 +33,8 @@ public class MainActivity extends Activity{
 
     private ImageClassifier classifier;
 
-    long startTime = 0;
-    long delay = 0;
+//    long startTime = 0;
+//    long delay = 0;
 
     private String tag = "Camera";
 
@@ -51,7 +51,9 @@ public class MainActivity extends Activity{
         }
 
         classifiedLabel = new ArrayList<>();
+        classifiedLabel = null;
         bitmaps = new ArrayList<>();
+        bitmaps = null;
 
         cameraView = findViewById(R.id.cameraView);
         btnDetectObject = findViewById(R.id.btnDetectObject);
@@ -70,26 +72,26 @@ public class MainActivity extends Activity{
 
             @Override
             public void onImage(CameraKitImage cameraKitImage) {
-                delay = SystemClock.uptimeMillis() - startTime;
-                Log.d(tag, Long.toString(delay));
-                startTime = SystemClock.uptimeMillis();
-                Log.d(tag,"Picture Taken");
+//                delay = SystemClock.uptimeMillis() - startTime;
+//                Log.d(tag, Long.toString(delay));
+//                startTime = SystemClock.uptimeMillis();
+//                Log.d(tag,"Picture Taken");
                 Bitmap bitmap = cameraKitImage.getBitmap();
                 bitmap = Bitmap.createScaledBitmap(bitmap, INPUT_SIZE, INPUT_SIZE, false);
                 bitmaps.add(bitmap);
 //                ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
 //                bitmap.compress(Bitmap.CompressFormat.PNG,100,byteArrayOutputStream);
 //                byte[] bytesArray = byteArrayOutputStream.toByteArray();
-                delay = SystemClock.uptimeMillis() - startTime;
-                Log.d(tag,Long.toString(delay));
+//                delay = SystemClock.uptimeMillis() - startTime;
+//                Log.d(tag,Long.toString(delay));
 
-                startTime = SystemClock.uptimeMillis();
+//                startTime = SystemClock.uptimeMillis();
                 String label = classifier.classifyFrame(bitmap);
 //                imgList imgData = new imgList(bytesArray);
                 classifiedLabel.add(label);
-                delay = SystemClock.uptimeMillis() - startTime;
-                Log.d(tag,Long.toString(delay));
-                Log.d(tag,label);
+//                delay = SystemClock.uptimeMillis() - startTime;
+//                Log.d(tag,Long.toString(delay));
+//                Log.d(tag,label);
                 if (bitmaps.size()>=2){
                     btnDetectObject.setVisibility(View.INVISIBLE);
                 }
@@ -104,7 +106,7 @@ public class MainActivity extends Activity{
         btnDetectObject.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startTime = SystemClock.uptimeMillis();
+//                startTime = SystemClock.uptimeMillis();
                 cameraView.captureImage();
             }
         });
@@ -138,5 +140,4 @@ public class MainActivity extends Activity{
         super.onDestroy();
         classifier.close();
     }
-
 }
