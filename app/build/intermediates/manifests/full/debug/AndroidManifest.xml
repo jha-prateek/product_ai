@@ -68,6 +68,10 @@
         <activity
             android:name="com.example.android.product_ai.detailPage"
             android:theme="@style/Theme.AppCompat.Light" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

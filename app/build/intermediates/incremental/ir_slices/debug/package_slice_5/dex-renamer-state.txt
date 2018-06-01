@@ -1,4 +1,4 @@
-#Fri Jun 01 12:45:05 IST 2018
-base.0=C\:\\Users\\Owner\\Desktop\\New folder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+#Sat Jun 02 00:07:04 IST 2018
+base.0=/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/transforms/dexMerger/debug/5
 path.0=classes.dex
 renamed.0=classes.dex

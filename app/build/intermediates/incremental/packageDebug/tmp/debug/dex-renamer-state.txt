@@ -1,4 +1,4 @@
-#Fri Jun 01 22:05:13 IST 2018
+#Sat Jun 02 00:07:04 IST 2018
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
@@ -7,7 +7,7 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=C\:\\Users\\Owner\\Desktop\\New folder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.2=C\:\\Users\\Owner\\Desktop\\New folder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.1=C\:\\Users\\Owner\\Desktop\\New folder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.0=C\:\\Users\\Owner\\Desktop\\New folder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.3=/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/transforms/dexMerger/debug/12
+base.2=/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/transforms/dexMerger/debug/14
+base.1=/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/transforms/dexMerger/debug/11
+base.0=/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/transforms/dexMerger/debug/13
