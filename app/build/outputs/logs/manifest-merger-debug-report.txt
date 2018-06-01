@@ -4,11 +4,13 @@ ADDED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml:18
 INJECTED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml:18:1-61:12
 INJECTED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml:18:1-61:12
 INJECTED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml:18:1-61:12
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\b3b8168c7429d37e1569731d57a03e68\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:design:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\98ee7160e0531d2cd84f12a8e238aadd\AndroidManifest.xml:17:1-22:12
 MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:2:1-27:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\775a5dd33a734970c37612167e6b583f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e96e66963f072c327ae0ddf3c2cbfe07\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa71d35a8555d234b72a3d5f685741a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\72f6c0ed9944c20508a08ede13048973\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8c715a73880c447c780991da6099dc1d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c0abc3c849b7aeaca249b4e61a138c7a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\aa94cd8bd81c34af33c5eb533dcf2a2e\AndroidManifest.xml:17:1-22:12
@@ -74,6 +76,8 @@ uses-sdk
 ADDED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml:28:5-44
 INJECTED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml:28:5-44
 INJECTED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml:28:5-44
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\b3b8168c7429d37e1569731d57a03e68\AndroidManifest.xml:7:5-44
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\b3b8168c7429d37e1569731d57a03e68\AndroidManifest.xml:7:5-44
 MERGED from [com.android.support:design:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\98ee7160e0531d2cd84f12a8e238aadd\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\98ee7160e0531d2cd84f12a8e238aadd\AndroidManifest.xml:20:5-44
 MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:6:5-8:41
@@ -84,6 +88,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ow
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e96e66963f072c327ae0ddf3c2cbfe07\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa71d35a8555d234b72a3d5f685741a1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa71d35a8555d234b72a3d5f685741a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\72f6c0ed9944c20508a08ede13048973\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\72f6c0ed9944c20508a08ede13048973\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8c715a73880c447c780991da6099dc1d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8c715a73880c447c780991da6099dc1d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c0abc3c849b7aeaca249b4e61a138c7a\AndroidManifest.xml:20:5-44
@@ -126,6 +132,8 @@ INJECTED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\Owner\Desktop\New folder\app\src\main\AndroidManifest.xml:30:5-59:19
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\b3b8168c7429d37e1569731d57a03e68\AndroidManifest.xml:9:5-20
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\circlebutton-1.1.aar\b3b8168c7429d37e1569731d57a03e68\AndroidManifest.xml:9:5-20
 MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:25:5-20
 MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e96e66963f072c327ae0ddf3c2cbfe07\AndroidManifest.xml:9:5-20

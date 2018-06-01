@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.os.SystemClock;
 import android.util.Log;
 import android.view.View;
-import android.widget.Button;
 
 import com.wonderkiln.camerakit.CameraKitError;
 import com.wonderkiln.camerakit.CameraKitEvent;
@@ -19,13 +18,15 @@ import com.wonderkiln.camerakit.CameraView;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import at.markushi.ui.CircleButton;
+
 public class MainActivity extends Activity{
 
     private static final int INPUT_SIZE = 224;
 
-    private Button btnDetectObject;
+    private CircleButton btnDetectObject;
     private CameraView cameraView;
-    private Button passIntent;
+    private CircleButton passIntent;
 
     private ArrayList<String> classifiedLabel;
     private ArrayList<Bitmap> bitmaps;
@@ -71,7 +72,6 @@ public class MainActivity extends Activity{
             public void onImage(CameraKitImage cameraKitImage) {
                 delay = SystemClock.uptimeMillis() - startTime;
                 Log.d(tag, Long.toString(delay));
-
                 startTime = SystemClock.uptimeMillis();
                 Log.d(tag,"Picture Taken");
                 Bitmap bitmap = cameraKitImage.getBitmap();
@@ -90,6 +90,9 @@ public class MainActivity extends Activity{
                 delay = SystemClock.uptimeMillis() - startTime;
                 Log.d(tag,Long.toString(delay));
                 Log.d(tag,label);
+                if (bitmaps.size()>=2){
+                    btnDetectObject.setVisibility(View.INVISIBLE);
+                }
             }
 
             @Override
