@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "C:\\Users\\prate\\Documents\\product_ai\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "/Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/132eadba67c71f8e84bbc31b6d45f051/res/values-port/values-port.xml",
+                    "source": "C:\\Users\\prate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fe6b9f75068152b83e1f85930262fe97\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

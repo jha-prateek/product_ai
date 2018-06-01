@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "C:\\Users\\prate\\Documents\\product_ai\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
             "map": [
                 {
-                    "source": "/Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/132eadba67c71f8e84bbc31b6d45f051/res/values-ky/values-ky.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,304,423,507,614,731,809,888,969,1079,1186,1284,1390,1497,1598,1759,1862",
-                        "endColumns": "103,94,118,83,106,116,77,78,80,109,106,97,105,106,100,160,102,80",
-                        "endOffsets": "204,299,418,502,609,726,804,883,964,1074,1181,1279,1385,1492,1593,1754,1857,1938"
-                    }
-                },
-                {
-                    "source": "/Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/774a4c364580ea577e7c407a87d7ec87/res/values-ky/values-ky.xml",
+                    "source": "C:\\Users\\prate\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b7595442aa555f8833e131856f6249b\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1943",
                         "endColumns": "100",
                         "endOffsets": "2039"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\prate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fe6b9f75068152b83e1f85930262fe97\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,304,423,507,614,731,809,888,969,1079,1186,1284,1390,1497,1598,1759,1862",
+                        "endColumns": "103,94,118,83,106,116,77,78,80,109,106,97,105,106,100,160,102,80",
+                        "endOffsets": "204,299,418,502,609,726,804,883,964,1074,1181,1279,1385,1492,1593,1754,1857,1938"
                     }
                 }
             ]
