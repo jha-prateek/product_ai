@@ -4,9 +4,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.os.SystemClock;
 import android.util.Log;
 import android.view.View;
+import android.widget.ImageView;
 
 import com.wonderkiln.camerakit.CameraKitError;
 import com.wonderkiln.camerakit.CameraKitEvent;
@@ -18,15 +18,13 @@ import com.wonderkiln.camerakit.CameraView;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import at.markushi.ui.CircleButton;
-
 public class MainActivity extends Activity{
 
     private static final int INPUT_SIZE = 224;
 
-    private CircleButton btnDetectObject;
+    private ImageView btnDetectObject;
     private CameraView cameraView;
-    private CircleButton passIntent;
+    private ImageView passIntent;
 
     private ArrayList<String> classifiedLabel;
     private ArrayList<Bitmap> bitmaps;
@@ -51,9 +49,9 @@ public class MainActivity extends Activity{
         }
 
         classifiedLabel = new ArrayList<>();
-        classifiedLabel = null;
+//        classifiedLabel = null;
         bitmaps = new ArrayList<>();
-        bitmaps = null;
+//        bitmaps = null;
 
         cameraView = findViewById(R.id.cameraView);
         btnDetectObject = findViewById(R.id.btnDetectObject);
