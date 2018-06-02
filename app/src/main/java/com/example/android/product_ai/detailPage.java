@@ -5,7 +5,6 @@ import android.graphics.Bitmap;
 import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.CardView;
 import android.util.Log;
@@ -19,8 +18,8 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class detailPage extends AppCompatActivity {
-    private ImageView imageView,imageView1;
-    private TextView textView,textView1;
+    private ImageView thumb1, thumb2;
+    private TextView title1, title2, detail1, detail2;
 //    private ImageClassifier classifier;
     private ArrayList<Bitmap> bitmapArrayList;
     private CardView cardView;
@@ -56,13 +55,15 @@ public class detailPage extends AppCompatActivity {
 //        animationDrawable1.setExitFadeDuration(4000);
 //        animationDrawable1.start();
 
-
         bitmapArrayList = new ArrayList<>();
-        imageView = findViewById(R.id.imageView2);
-        textView = findViewById(R.id.text_view);
-        imageView1 = findViewById(R.id.imageView3);
-        textView1 = findViewById(R.id.text_view2);
+        thumb1 = findViewById(R.id.imageView2);
+        title1 = findViewById(R.id.text_view);
+        thumb2 = findViewById(R.id.imageView3);
+        title2 = findViewById(R.id.text_view2);
         cardView = findViewById(R.id.card2);
+        detail1 = findViewById(R.id.text_view1);
+        detail2 = findViewById(R.id.text_view3);
+
         Thread thread = new Thread() {
             @Override
             public void run() {
@@ -77,16 +78,18 @@ public class detailPage extends AppCompatActivity {
                 runOnUiThread(() -> {
                     if (bitmapArr.length>=2){
                         cardView.setVisibility(View.VISIBLE);
-                        imageView.setImageBitmap(bitmapArr[0]);
-                        imageView1.setImageBitmap(bitmapArr[1]);
-                        textView.setText(labels.get(0));
-                        textView1.setText(labels.get(1));
+                        thumb1.setImageBitmap(bitmapArr[0]);
+                        thumb2.setImageBitmap(bitmapArr[1]);
+                        title1.setText(labels.get(0));
+                        title2.setText(labels.get(1));
+                        detail1.setText(getDetails(labels.get(0)));
+                        detail2.setText(getDetails(labels.get(1)));
                     }
                     else
                     {
                         cardView.setVisibility(View.INVISIBLE);
-                        imageView.setImageBitmap(bitmapArr[0]);
-                        textView.setText(labels.get(0));
+                        thumb1.setImageBitmap(bitmapArr[0]);
+                        title1.setText(labels.get(0));
                     }
                 });
             }
@@ -99,4 +102,12 @@ public class detailPage extends AppCompatActivity {
 //        super.onDestroy();
 //        classifier.close();
 //    }
+
+    public String getDetails(String label){
+        switch (label){
+            case "tide naturals": return getResources().getString(R.string.TideN);
+            case "ariel complete": return getResources().getString(R.string.ArielC);
+        }
+        return "null";
+    }
 }

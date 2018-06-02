@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "outputFile": "C:\\Users\\prate\\Documents\\Android\\product_ai\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
-                    "source": "/Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/774a4c364580ea577e7c407a87d7ec87/res/values-be/values-be.xml",
+                    "source": "C:\\Users\\prate\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5b7595442aa555f8833e131856f6249b\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/132eadba67c71f8e84bbc31b6d45f051/res/values-be/values-be.xml",
+                    "source": "C:\\Users\\prate\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fe6b9f75068152b83e1f85930262fe97\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

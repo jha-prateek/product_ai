@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import com.wonderkiln.camerakit.CameraKitError;
 import com.wonderkiln.camerakit.CameraKitEvent;
@@ -50,9 +51,7 @@ public class MainActivity extends Activity{
         }
 
         classifiedLabel = new ArrayList<>();
-//        classifiedLabel = null;
         bitmaps = new ArrayList<>();
-//        bitmaps = null;
 
         cameraView = findViewById(R.id.cameraView);
         btnDetectObject = findViewById(R.id.btnDetectObject);
@@ -90,7 +89,7 @@ public class MainActivity extends Activity{
                 classifiedLabel.add(label);
 //                delay = SystemClock.uptimeMillis() - startTime;
 //                Log.d(tag,Long.toString(delay));
-//                Log.d(tag,label);
+                Log.d(tag,String.valueOf(bitmaps.size()));
                 if (bitmaps.size()>=2){
                     btnDetectObject.setVisibility(View.INVISIBLE);
                 }
@@ -117,6 +116,8 @@ public class MainActivity extends Activity{
                 intent.putStringArrayListExtra("byteArr",classifiedLabel);
                 intent.putParcelableArrayListExtra("images",bitmaps);
                 startActivity(intent);
+                bitmaps.clear();
+                classifiedLabel.clear();
             }
         });
     }
@@ -124,6 +125,7 @@ public class MainActivity extends Activity{
     @Override
     protected void onResume() {
         super.onResume();
+        btnDetectObject.setVisibility(View.VISIBLE);
         cameraView.start();
     }
 

@@ -1,208 +1,208 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.12.aar/9947c3559bf0c2c422d539bac1e52edd/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:design:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/437429363ff683677d7f5a154bf6b22d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:2:1-27:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/132eadba67c71f8e84bbc31b6d45f051/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/bb2ec9bef37faf9fa4ebb13448f0de00/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v13:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/73c880b5aa00cf2251c9afe4bc64a296/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e1cfdcd52b12b581483a37dbc14da0a9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2c7e637be064d919d4bf3871c3f23721/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/00dd0d9dc6288a3a31f51bb6e9850e02/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:exifinterface:27.0.2] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/e8fcdcd6081c772de106529f5c7db404/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d446321feaf653725d7bb7a3019e1067/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/733d73a9af9fd8ddf4df54352013323f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eadf613bce9926119c3a46fb70e81f2b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e99c7e01c627a6a91dd1ef42176a2af8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc8794847fe41c1318ba6f954dc9369b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44c96867e1fb4926b8ee482901d8872f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/badf3ad9029b40508958fe2e2980314b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/774a4c364580ea577e7c407a87d7ec87/AndroidManifest.xml:17:1-22:12
-MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.7.aar/71c5cd77bbc101049068e4d08e25c658/AndroidManifest.xml:2:1-6:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8979e8647f75907e091f7389ce35c830/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c6102779f53216da4b10338cf4e774e2/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eccddf4a4df3925c632f59ac07a45be0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b18c6e768f01ad67d07608edf8f95ebd/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\14322d189675cb014c4d888682d0160d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\de08fe17751645a37d246b6848310220\AndroidManifest.xml:17:1-22:12
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fe6b9f75068152b83e1f85930262fe97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a42b6b70c4d68626ee77dc361545f9e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e78580d2b2f0c5b2365a20e0a28a94d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9feea97ff6596196cc5e3bdad77b7abb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72e51bf192ee477950b4f90f83046dcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\d7f0219b95a2a648ce761a292dd21e56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27e1a9535765420a04e068bcde6802cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b0c588443254dada48debe45b8e3b831\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\68832448b9956ed086d7d1d723de6336\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d1defec8657835aa4923fb695fa9f93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7e969d80e44926f4d2faedff7c7b44c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2c9e6f923f8e2b52ba449e2079cb339d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978b3eea6b77e3ca69b360983a56d4d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b7595442aa555f8833e131856f6249b\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\d039d8dbbe921f31839fe3bd05166534\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6b44233548722a9ed800a85fdd8d4675\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1fd815c3b8c15be606224c5722eaa076\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\150f8c34d056d1a6e92177b5f623c77b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6214dde8cd727728a315e5330046e18e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
 	package
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:19:5-45
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:19:5-45
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:21:5-65
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:11:5-65
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:11:5-65
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:21:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:11:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:21:22-62
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:21:22-62
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:22:5-80
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:22:22-77
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:22:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:23:5-81
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:10:5-81
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:10:5-81
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:23:5-81
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:10:5-81
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:23:22-78
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:23:22-78
 uses-feature#android.hardware.camera
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:25:5-60
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:14:5-60
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:14:5-60
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:25:5-60
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:14:5-60
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:14:5-60
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:25:19-57
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:25:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:26:5-70
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:15:5-17:36
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:15:5-17:36
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:26:5-70
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:15:5-17:36
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:15:5-17:36
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:26:19-67
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:26:19-67
 uses-sdk
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:28:5-44
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:28:5-44
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:28:5-44
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.12.aar/9947c3559bf0c2c422d539bac1e52edd/AndroidManifest.xml:7:5-9:41
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.12.aar/9947c3559bf0c2c422d539bac1e52edd/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/437429363ff683677d7f5a154bf6b22d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/437429363ff683677d7f5a154bf6b22d/AndroidManifest.xml:20:5-44
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:6:5-8:41
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/132eadba67c71f8e84bbc31b6d45f051/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/132eadba67c71f8e84bbc31b6d45f051/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/bb2ec9bef37faf9fa4ebb13448f0de00/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/bb2ec9bef37faf9fa4ebb13448f0de00/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v13:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/73c880b5aa00cf2251c9afe4bc64a296/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/73c880b5aa00cf2251c9afe4bc64a296/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e1cfdcd52b12b581483a37dbc14da0a9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e1cfdcd52b12b581483a37dbc14da0a9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2c7e637be064d919d4bf3871c3f23721/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2c7e637be064d919d4bf3871c3f23721/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/00dd0d9dc6288a3a31f51bb6e9850e02/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/00dd0d9dc6288a3a31f51bb6e9850e02/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.0.2] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/e8fcdcd6081c772de106529f5c7db404/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.0.2] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/exifinterface-27.0.2.aar/e8fcdcd6081c772de106529f5c7db404/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d446321feaf653725d7bb7a3019e1067/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d446321feaf653725d7bb7a3019e1067/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/733d73a9af9fd8ddf4df54352013323f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/733d73a9af9fd8ddf4df54352013323f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eadf613bce9926119c3a46fb70e81f2b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/eadf613bce9926119c3a46fb70e81f2b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e99c7e01c627a6a91dd1ef42176a2af8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e99c7e01c627a6a91dd1ef42176a2af8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc8794847fe41c1318ba6f954dc9369b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc8794847fe41c1318ba6f954dc9369b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44c96867e1fb4926b8ee482901d8872f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44c96867e1fb4926b8ee482901d8872f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/badf3ad9029b40508958fe2e2980314b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/badf3ad9029b40508958fe2e2980314b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/774a4c364580ea577e7c407a87d7ec87/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/774a4c364580ea577e7c407a87d7ec87/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8979e8647f75907e091f7389ce35c830/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8979e8647f75907e091f7389ce35c830/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c6102779f53216da4b10338cf4e774e2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c6102779f53216da4b10338cf4e774e2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eccddf4a4df3925c632f59ac07a45be0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eccddf4a4df3925c632f59ac07a45be0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b18c6e768f01ad67d07608edf8f95ebd/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b18c6e768f01ad67d07608edf8f95ebd/AndroidManifest.xml:20:5-44
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:28:5-44
-INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:28:5-44
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:28:5-44
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:28:5-44
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:28:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\14322d189675cb014c4d888682d0160d\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\14322d189675cb014c4d888682d0160d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\de08fe17751645a37d246b6848310220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\de08fe17751645a37d246b6848310220\AndroidManifest.xml:20:5-44
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fe6b9f75068152b83e1f85930262fe97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fe6b9f75068152b83e1f85930262fe97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a42b6b70c4d68626ee77dc361545f9e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a42b6b70c4d68626ee77dc361545f9e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e78580d2b2f0c5b2365a20e0a28a94d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e78580d2b2f0c5b2365a20e0a28a94d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9feea97ff6596196cc5e3bdad77b7abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9feea97ff6596196cc5e3bdad77b7abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72e51bf192ee477950b4f90f83046dcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72e51bf192ee477950b4f90f83046dcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\d7f0219b95a2a648ce761a292dd21e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\d7f0219b95a2a648ce761a292dd21e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27e1a9535765420a04e068bcde6802cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27e1a9535765420a04e068bcde6802cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b0c588443254dada48debe45b8e3b831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b0c588443254dada48debe45b8e3b831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\68832448b9956ed086d7d1d723de6336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\68832448b9956ed086d7d1d723de6336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d1defec8657835aa4923fb695fa9f93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d1defec8657835aa4923fb695fa9f93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7e969d80e44926f4d2faedff7c7b44c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7e969d80e44926f4d2faedff7c7b44c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2c9e6f923f8e2b52ba449e2079cb339d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2c9e6f923f8e2b52ba449e2079cb339d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978b3eea6b77e3ca69b360983a56d4d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978b3eea6b77e3ca69b360983a56d4d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b7595442aa555f8833e131856f6249b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b7595442aa555f8833e131856f6249b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6b44233548722a9ed800a85fdd8d4675\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6b44233548722a9ed800a85fdd8d4675\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1fd815c3b8c15be606224c5722eaa076\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1fd815c3b8c15be606224c5722eaa076\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\150f8c34d056d1a6e92177b5f623c77b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\150f8c34d056d1a6e92177b5f623c77b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6214dde8cd727728a315e5330046e18e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6214dde8cd727728a315e5330046e18e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:28:5-44
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:28:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:28:5-44
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:28:5-44
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:28:15-41
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:28:15-41
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 application
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:30:5-63:19
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:25:5-20
-MERGED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/bb2ec9bef37faf9fa4ebb13448f0de00/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/bb2ec9bef37faf9fa4ebb13448f0de00/AndroidManifest.xml:9:5-20
-MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.7.aar/71c5cd77bbc101049068e4d08e25c658/AndroidManifest.xml:4:5-5:19
-MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.7.aar/71c5cd77bbc101049068e4d08e25c658/AndroidManifest.xml:4:5-5:19
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:30:5-63:19
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:25:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\d039d8dbbe921f31839fe3bd05166534\AndroidManifest.xml:4:5-5:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\d039d8dbbe921f31839fe3bd05166534\AndroidManifest.xml:4:5-5:19
 	android:label
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:31:9-41
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:31:9-41
 	android:icon
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:32:9-36
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:32:9-36
 	android:allowBackup
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:30:18-44
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:30:18-44
 	android:theme
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:33:9-45
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:33:9-45
 activity#com.example.android.product_ai.splash_screen
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:35:9-44:20
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:35:9-44:20
 	android:label
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:37:13-45
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:37:13-45
 	android:theme
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:38:13-49
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:36:13-72
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:36:13-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:39:13-43:29
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:40:17-69
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:40:25-66
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:42:17-77
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:42:27-74
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:42:27-74
 activity#com.example.android.product_ai.MainActivity
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:46:9-51:20
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:46:9-51:20
 	android:label
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:47:19-51
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:47:19-51
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:46:19-77
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:46:19-77
 intent-filter#category:name:android.intent.category.DEFAULT
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:48:13-50:29
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:48:13-50:29
 category#android.intent.category.DEFAULT
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:49:17-76
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:49:17-76
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:49:27-73
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:49:27-73
 activity#com.example.android.product_ai.detailPage
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:55:9-57:15
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:55:9-57:15
 	android:theme
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:56:13-57
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:56:13-57
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:55:19-45
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:55:19-45
 meta-data#preloaded_fonts
-ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:59:9-61:57
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:59:9-61:57
 	android:resource
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:61:13-54
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:61:13-54
 	android:name
-		ADDED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:60:13-43
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:60:13-43
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:12:5-71
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:12:5-71
 	android:name
-		ADDED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:12:22-68
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:12:22-68
 uses-feature#android.hardware.camera.front
-ADDED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:18:5-20:36
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:18:5-20:36
 	android:required
-		ADDED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:20:9-33
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:20:9-33
 	android:name
-		ADDED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:19:9-53
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:19:9-53
 uses-feature#android.hardware.microphone
-ADDED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:21:5-23:36
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:21:5-23:36
 	android:required
-		ADDED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:23:9-33
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:23:9-33
 	android:name
-		ADDED from [com.wonderkiln:camerakit:0.13.1] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/camerakit-0.13.1.aar/47a10c8e33ccf45da6bf3a321cceaea4/AndroidManifest.xml:22:9-51
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:22:9-51
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/shivendra/Documents/GitHub/product_ai/app/src/main/AndroidManifest.xml:18:1-65:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+IMPLIED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
