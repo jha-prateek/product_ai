@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Owner\\Desktop\\p&g\\product_ai\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "/Users/shivendra/Documents/GitHub/product_ai/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Owner\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\775a5dd33a734970c37612167e6b583f\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/132eadba67c71f8e84bbc31b6d45f051/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,32 +14,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Owner\\Desktop\\p&g\\product_ai\\app\\src\\main\\res\\values-sw600dp\\template-styles.xml",
-                    "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "639",
-                        "endLines": "22",
-                        "endColumns": "12",
-                        "endOffsets": "883"
-                    },
-                    "to": {
-                        "startLines": "25",
-                        "startColumns": "4",
-                        "startOffsets": "1551",
-                        "endLines": "29",
-                        "endColumns": "12",
-                        "endOffsets": "1791"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Owner\\Desktop\\p&g\\product_ai\\app\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "/Users/shivendra/Documents/GitHub/product_ai/app/src/main/res/values-sw600dp/template-dimens.xml",
                     "from": {
                         "startLines": "20,21",
                         "startColumns": "4,4",
-                        "startOffsets": "676,745",
+                        "startOffsets": "656,724",
                         "endColumns": "67,67",
-                        "endOffsets": "739,808"
+                        "endOffsets": "719,787"
                     },
                     "to": {
                         "startLines": "18,19",
@@ -50,7 +31,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Owner\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\98ee7160e0531d2cd84f12a8e238aadd\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/shivendra/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/437429363ff683677d7f5a154bf6b22d/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -66,6 +47,25 @@
                         "endLines": "10,11,12,13,14,15,16,17,20,24",
                         "endColumns": "59,69,70,71,57,57,105,63,62,12",
                         "endOffsets": "666,736,807,879,937,995,1101,1165,1364,1546"
+                    }
+                },
+                {
+                    "source": "/Users/shivendra/Documents/GitHub/product_ai/app/src/main/res/values-sw600dp/template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "621",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "861"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "1551",
+                        "endLines": "29",
+                        "endColumns": "12",
+                        "endOffsets": "1791"
                     }
                 }
             ]

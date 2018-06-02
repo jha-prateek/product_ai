@@ -50,6 +50,13 @@ public class detailPage extends AppCompatActivity {
 //            Log.e(tag, "Failed to initialize an image classifier.");
 //        }
 
+//        RelativeLayout relativeLayout1 =  findViewById(R.id.relative1);
+//        final AnimationDrawable animationDrawable1 = (AnimationDrawable) relativeLayout1.getBackground();
+//        animationDrawable1.setEnterFadeDuration(2000);
+//        animationDrawable1.setExitFadeDuration(4000);
+//        animationDrawable1.start();
+
+
         bitmapArrayList = new ArrayList<>();
         imageView = findViewById(R.id.imageView2);
         textView = findViewById(R.id.text_view);
