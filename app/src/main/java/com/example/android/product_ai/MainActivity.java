@@ -25,6 +25,7 @@ public class MainActivity extends Activity{
     private ImageView btnDetectObject;
     private CameraView cameraView;
     private ImageView passIntent;
+    
 
     private ArrayList<String> classifiedLabel;
     private ArrayList<Bitmap> bitmaps;
