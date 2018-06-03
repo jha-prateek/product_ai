@@ -4,11 +4,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.support.annotation.DrawableRes;
 import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import com.wonderkiln.camerakit.CameraKitError;
 import com.wonderkiln.camerakit.CameraKitEvent;
@@ -27,19 +25,18 @@ public class MainActivity extends Activity{
     private ImageView btnDetectObject;
     private CameraView cameraView;
     private ImageView passIntent;
-    
+
 
     private ArrayList<String> classifiedLabel;
     private ArrayList<Bitmap> bitmaps;
 
     private ImageClassifier classifier;
 
-    private ImageView count;
-
 //    long startTime = 0;
 //    long delay = 0;
 
     private String tag = "Camera";
+    private ImageView count;
 
 
     @Override
@@ -59,7 +56,6 @@ public class MainActivity extends Activity{
         cameraView = findViewById(R.id.cameraView);
         btnDetectObject = findViewById(R.id.btnDetectObject);
         passIntent = findViewById(R.id.intentPass);
-
         count = findViewById(R.id.btncount);
 
         cameraView.addCameraKitListener(new CameraKitEventListener() {
@@ -123,12 +119,13 @@ public class MainActivity extends Activity{
         passIntent.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(),detailPage.class);
-                intent.putStringArrayListExtra("byteArr",classifiedLabel);
-                intent.putParcelableArrayListExtra("images",bitmaps);
-                startActivity(intent);
-                bitmaps.clear();
-                classifiedLabel.clear();
+                    Intent intent = new Intent(getApplicationContext(), detailPage.class);
+                    intent.putStringArrayListExtra("byteArr", classifiedLabel);
+                    intent.putParcelableArrayListExtra("images", bitmaps);
+                    startActivity(intent);
+                    bitmaps.clear();
+                    classifiedLabel.clear();
+                    count.setVisibility(View.INVISIBLE);
             }
         });
     }

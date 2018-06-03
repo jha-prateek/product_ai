@@ -4264,18 +4264,20 @@ public final class R {
     public static final int character_counter_pattern=0x7f0e0023;
     public static final int description_info=0x7f0e0024;
     public static final int intro_message=0x7f0e0025;
-    public static final int password_toggle_content_description=0x7f0e0026;
-    public static final int path_password_eye=0x7f0e0027;
-    public static final int path_password_eye_mask_strike_through=0x7f0e0028;
-    public static final int path_password_eye_mask_visible=0x7f0e0029;
-    public static final int path_password_strike_through=0x7f0e002a;
-    public static final int picture=0x7f0e002b;
-    public static final int request_permission=0x7f0e002c;
-    public static final int search_menu_title=0x7f0e002d;
-    public static final int status_bar_notification_info_overflow=0x7f0e002e;
-    public static final int toggle=0x7f0e002f;
-    public static final int toggle_turn_off=0x7f0e0030;
-    public static final int toggle_turn_on=0x7f0e0031;
+    public static final int jasmine=0x7f0e0026;
+    public static final int password_toggle_content_description=0x7f0e0027;
+    public static final int path_password_eye=0x7f0e0028;
+    public static final int path_password_eye_mask_strike_through=0x7f0e0029;
+    public static final int path_password_eye_mask_visible=0x7f0e002a;
+    public static final int path_password_strike_through=0x7f0e002b;
+    public static final int picture=0x7f0e002c;
+    public static final int request_permission=0x7f0e002d;
+    public static final int search_menu_title=0x7f0e002e;
+    public static final int status_bar_notification_info_overflow=0x7f0e002f;
+    public static final int tideplus=0x7f0e0030;
+    public static final int toggle=0x7f0e0031;
+    public static final int toggle_turn_off=0x7f0e0032;
+    public static final int toggle_turn_on=0x7f0e0033;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0f0000;

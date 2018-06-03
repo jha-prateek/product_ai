@@ -90,6 +90,7 @@ public class detailPage extends AppCompatActivity {
                         cardView.setVisibility(View.INVISIBLE);
                         thumb1.setImageBitmap(bitmapArr[0]);
                         title1.setText(labels.get(0));
+                        detail1.setText(getDetails(labels.get(0)));
                     }
                 });
             }
@@ -107,6 +108,8 @@ public class detailPage extends AppCompatActivity {
         switch (label){
             case "tide naturals": return getResources().getString(R.string.TideN);
             case "ariel complete": return getResources().getString(R.string.ArielC);
+            case "tide plus jasmine and rose":return getResources().getString(R.string.jasmine);
+            case "tide plus original":return getResources().getString(R.string.tideplus);
         }
         return "null";
     }

@@ -21,11 +21,8 @@
     <string name="toggle_turn_on">NN:On</string>
     <string name="toggle_turn_off">NN:Off</string>
     <string name="toggle">Use NNAPI</string>
-    <string name="TideN">Tide Naturals delivers a strong product cleaning and whitening performance via a dual surfactant system and brightener technology
-        Tide Naturals contains a surfactant derived from natural palm and coconut oil as well as several natural oils, to provide the natural-like freshness or fragrance of lemon and sandalwood
-        Tide Naturals uses water-soluble sodium sulphate that helps provide the additional benefit of keeping your hands soft</string>
-    <string name="ArielC">Designed to work in Semi-automatic Washing Machines and for Hand-wash
-        India\'s Best Stain Removal in 1 Wash among semi-automatic detergents based on 3rd party data on overall better stain removal vs leading premium detergent
-        Ariel is the No 1 Brand Recommended by Washing Machine Manufactures Globally
-        More leading washing machine makers recommend Ariel than any other brand globally</string>
+    <string name="TideN">• Tide Naturals delivers a strong product cleaning and whitening performance via a dual surfactant system and brightener technology.\n\n• Tide Naturals contains a surfactant derived from natural palm and coconut oil as well as several natural oils, to provide the natural-like freshness or fragrance of lemon and sandalwood.\n\n• Tide Naturals uses water-soluble sodium sulphate that helps provide the additional benefit of keeping your hands soft.</string>
+    <string name="ArielC">• Ariel Complete is designed to work in Semi-automatic Washing Machines and for Hand-washing.\n\n• Removes tough stains in just 1 wash for semi-automatic washing machines and while hand washing.\n\n• Ariel is the no. 1 brand recommended by LG, and no. 1 brand recommended by washing machine manufacturers globally.\n\n• Best results behind correct usage and dosage: 2 scoops for normal loads, and 3 scoops for heavy loads.</string>
+    <string name="jasmine">• Superior whiteness- Tide Plus gives you full-on whiteness.\n\n• Half the effort- need only half the effort versus ordinary detergents\n\n• No dullness in clothes- retain the whiteness of your white clothes wash after wash\n\n• Half the dosage\n\n• Need only half dosage versus that of ordinary detergents\n\n• Pleasant fragrance</string>
+    <string name="tideplus">• Superior whiteness- Tide Plus gives you full-on whiteness.\n\n• Half the effort- need only half the effort versus ordinary detergents.\n\n• No dullness in clothes- retain the whiteness of your white clothes wash after wash.\n\n</string>
 </resources>
