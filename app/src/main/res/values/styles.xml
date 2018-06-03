@@ -18,7 +18,7 @@
 
     <style name="Splash_screen" parent="Theme.AppCompat.NoActionBar">
         <!-- Splash Screen here -->
-        <item name="android:windowBackground">@drawable/screen</item>
+        <item name="android:windowBackground">@drawable/newsplash</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
     </style>

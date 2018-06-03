@@ -19,7 +19,7 @@
         android:focusable="true"
         android:fontFamily="monospace"
         android:gravity="center"
-        android:text="product.ai"
+        android:text="Product.ai"
         android:textColor="#ffffff"
         android:textSize="27sp" />
 

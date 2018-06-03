@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.support.annotation.DrawableRes;
 import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
@@ -33,6 +34,8 @@ public class MainActivity extends Activity{
 
     private ImageClassifier classifier;
 
+    private ImageView count;
+
 //    long startTime = 0;
 //    long delay = 0;
 
@@ -56,6 +59,8 @@ public class MainActivity extends Activity{
         cameraView = findViewById(R.id.cameraView);
         btnDetectObject = findViewById(R.id.btnDetectObject);
         passIntent = findViewById(R.id.intentPass);
+
+        count = findViewById(R.id.btncount);
 
         cameraView.addCameraKitListener(new CameraKitEventListener() {
             @Override
@@ -90,6 +95,12 @@ public class MainActivity extends Activity{
 //                delay = SystemClock.uptimeMillis() - startTime;
 //                Log.d(tag,Long.toString(delay));
                 Log.d(tag,String.valueOf(bitmaps.size()));
+                if (bitmaps.size()==1){
+                    count.setImageResource(R.drawable.baseline_looks_one_white_24dp);
+                }
+                if (bitmaps.size()==2){
+                    count.setImageResource(R.drawable.baseline_looks_two_white_24dp);
+                }
                 if (bitmaps.size()>=2){
                     btnDetectObject.setVisibility(View.INVISIBLE);
                 }
