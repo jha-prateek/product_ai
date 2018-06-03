@@ -19,7 +19,7 @@ public class splash_screen extends Activity {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
         try {
-            sleep(1500);
+            sleep(250);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

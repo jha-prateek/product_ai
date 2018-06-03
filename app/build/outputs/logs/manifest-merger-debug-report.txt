@@ -1,208 +1,212 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\6cc645fd11cef096528551e09bf0584c\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:design:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\98ee7160e0531d2cd84f12a8e238aadd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:2:1-27:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\775a5dd33a734970c37612167e6b583f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e96e66963f072c327ae0ddf3c2cbfe07\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa71d35a8555d234b72a3d5f685741a1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\72f6c0ed9944c20508a08ede13048973\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8c715a73880c447c780991da6099dc1d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c0abc3c849b7aeaca249b4e61a138c7a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\aa94cd8bd81c34af33c5eb533dcf2a2e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fdeebe75553da6f8355275466dc2aa62\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\29a3dfe3c2dbc14cad386cbe4d790a8c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\958cede86f84645e49299149ac3cc18a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\56d13b1ad850dc1a393fca3bf5ee3b11\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\907d542b7c01230e3e5ff73d0f4227ef\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\de9c59190f8f5727c5c355014bb56127\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\de73dda2def12e644d774fe17132bce2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b76f097da19694353d768f34cdeff82c\AndroidManifest.xml:17:1-22:12
-MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\e69a1a4f2721eac5cbdd017a1f25d1a2\AndroidManifest.xml:2:1-6:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65bde6fd694da45f4ff673f89bd26148\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\20cd3a659e6ffde68cfc8a902236eef6\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76f1647e4c293644fe8c3ee67038ef4c\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\280a6267ad40f14c003ce2028f7bdf56\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\14322d189675cb014c4d888682d0160d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\de08fe17751645a37d246b6848310220\AndroidManifest.xml:17:1-22:12
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fe6b9f75068152b83e1f85930262fe97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a42b6b70c4d68626ee77dc361545f9e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e78580d2b2f0c5b2365a20e0a28a94d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9feea97ff6596196cc5e3bdad77b7abb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72e51bf192ee477950b4f90f83046dcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\d7f0219b95a2a648ce761a292dd21e56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27e1a9535765420a04e068bcde6802cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b0c588443254dada48debe45b8e3b831\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\68832448b9956ed086d7d1d723de6336\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d1defec8657835aa4923fb695fa9f93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7e969d80e44926f4d2faedff7c7b44c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2c9e6f923f8e2b52ba449e2079cb339d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978b3eea6b77e3ca69b360983a56d4d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b7595442aa555f8833e131856f6249b\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\d039d8dbbe921f31839fe3bd05166534\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6b44233548722a9ed800a85fdd8d4675\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1fd815c3b8c15be606224c5722eaa076\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\150f8c34d056d1a6e92177b5f623c77b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6214dde8cd727728a315e5330046e18e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
 	package
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:19:5-45
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:19:5-45
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:21:5-65
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:11:5-65
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:11:5-65
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:21:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:11:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:21:22-62
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:21:22-62
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:22:5-80
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:22:22-77
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:22:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:23:5-81
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:10:5-81
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:10:5-81
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:23:5-81
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:10:5-81
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:23:22-78
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:24:22-63
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:25:5-60
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:14:5-60
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:14:5-60
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:26:5-60
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:14:5-60
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:14:5-60
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:25:19-57
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:26:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:26:5-70
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:15:5-17:36
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:15:5-17:36
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:27:5-70
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:15:5-17:36
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:15:5-17:36
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:26:19-67
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:27:19-67
 uses-sdk
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:28:5-44
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:28:5-44
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:28:5-44
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\6cc645fd11cef096528551e09bf0584c\AndroidManifest.xml:7:5-9:41
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\6cc645fd11cef096528551e09bf0584c\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\98ee7160e0531d2cd84f12a8e238aadd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\98ee7160e0531d2cd84f12a8e238aadd\AndroidManifest.xml:20:5-44
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:6:5-8:41
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\775a5dd33a734970c37612167e6b583f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\775a5dd33a734970c37612167e6b583f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e96e66963f072c327ae0ddf3c2cbfe07\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e96e66963f072c327ae0ddf3c2cbfe07\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa71d35a8555d234b72a3d5f685741a1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa71d35a8555d234b72a3d5f685741a1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\72f6c0ed9944c20508a08ede13048973\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\72f6c0ed9944c20508a08ede13048973\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8c715a73880c447c780991da6099dc1d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8c715a73880c447c780991da6099dc1d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c0abc3c849b7aeaca249b4e61a138c7a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c0abc3c849b7aeaca249b4e61a138c7a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\aa94cd8bd81c34af33c5eb533dcf2a2e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\aa94cd8bd81c34af33c5eb533dcf2a2e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fdeebe75553da6f8355275466dc2aa62\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fdeebe75553da6f8355275466dc2aa62\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\29a3dfe3c2dbc14cad386cbe4d790a8c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\29a3dfe3c2dbc14cad386cbe4d790a8c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\958cede86f84645e49299149ac3cc18a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\958cede86f84645e49299149ac3cc18a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\56d13b1ad850dc1a393fca3bf5ee3b11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\56d13b1ad850dc1a393fca3bf5ee3b11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\907d542b7c01230e3e5ff73d0f4227ef\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\907d542b7c01230e3e5ff73d0f4227ef\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\de9c59190f8f5727c5c355014bb56127\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\de9c59190f8f5727c5c355014bb56127\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\de73dda2def12e644d774fe17132bce2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\de73dda2def12e644d774fe17132bce2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b76f097da19694353d768f34cdeff82c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b76f097da19694353d768f34cdeff82c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65bde6fd694da45f4ff673f89bd26148\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65bde6fd694da45f4ff673f89bd26148\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\20cd3a659e6ffde68cfc8a902236eef6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\20cd3a659e6ffde68cfc8a902236eef6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76f1647e4c293644fe8c3ee67038ef4c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76f1647e4c293644fe8c3ee67038ef4c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\280a6267ad40f14c003ce2028f7bdf56\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\280a6267ad40f14c003ce2028f7bdf56\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:28:5-44
-INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:28:5-44
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:29:5-44
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:29:5-44
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:29:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\14322d189675cb014c4d888682d0160d\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\14322d189675cb014c4d888682d0160d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\de08fe17751645a37d246b6848310220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\de08fe17751645a37d246b6848310220\AndroidManifest.xml:20:5-44
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fe6b9f75068152b83e1f85930262fe97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fe6b9f75068152b83e1f85930262fe97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a42b6b70c4d68626ee77dc361545f9e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a42b6b70c4d68626ee77dc361545f9e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e78580d2b2f0c5b2365a20e0a28a94d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e78580d2b2f0c5b2365a20e0a28a94d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9feea97ff6596196cc5e3bdad77b7abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9feea97ff6596196cc5e3bdad77b7abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72e51bf192ee477950b4f90f83046dcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72e51bf192ee477950b4f90f83046dcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\d7f0219b95a2a648ce761a292dd21e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\exifinterface-27.0.2.aar\d7f0219b95a2a648ce761a292dd21e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27e1a9535765420a04e068bcde6802cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27e1a9535765420a04e068bcde6802cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b0c588443254dada48debe45b8e3b831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b0c588443254dada48debe45b8e3b831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\68832448b9956ed086d7d1d723de6336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\68832448b9956ed086d7d1d723de6336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d1defec8657835aa4923fb695fa9f93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d1defec8657835aa4923fb695fa9f93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7e969d80e44926f4d2faedff7c7b44c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7e969d80e44926f4d2faedff7c7b44c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2c9e6f923f8e2b52ba449e2079cb339d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2c9e6f923f8e2b52ba449e2079cb339d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978b3eea6b77e3ca69b360983a56d4d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978b3eea6b77e3ca69b360983a56d4d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b7595442aa555f8833e131856f6249b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b7595442aa555f8833e131856f6249b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6b44233548722a9ed800a85fdd8d4675\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6b44233548722a9ed800a85fdd8d4675\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1fd815c3b8c15be606224c5722eaa076\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1fd815c3b8c15be606224c5722eaa076\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\150f8c34d056d1a6e92177b5f623c77b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\150f8c34d056d1a6e92177b5f623c77b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6214dde8cd727728a315e5330046e18e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6214dde8cd727728a315e5330046e18e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:29:5-44
+INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:29:5-44
 	android:targetSdkVersion
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:28:5-44
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:29:5-44
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:28:15-41
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:29:15-41
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:30:5-63:19
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:25:5-20
-MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e96e66963f072c327ae0ddf3c2cbfe07\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e96e66963f072c327ae0ddf3c2cbfe07\AndroidManifest.xml:9:5-20
-MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\e69a1a4f2721eac5cbdd017a1f25d1a2\AndroidManifest.xml:4:5-5:19
-MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\e69a1a4f2721eac5cbdd017a1f25d1a2\AndroidManifest.xml:4:5-5:19
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:31:5-64:19
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:25:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\06abef561a450e4c3e6c788c03c00b25\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\d039d8dbbe921f31839fe3bd05166534\AndroidManifest.xml:4:5-5:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\d039d8dbbe921f31839fe3bd05166534\AndroidManifest.xml:4:5-5:19
 	android:label
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:31:9-41
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:32:9-41
 	android:icon
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:32:9-36
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:33:9-36
 	android:allowBackup
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:30:18-44
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:31:18-44
 	android:theme
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:33:9-45
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:34:9-45
 activity#com.example.android.product_ai.splash_screen
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:35:9-44:20
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:36:9-45:20
 	android:label
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:37:13-45
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:38:13-45
 	android:theme
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:39:13-49
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:36:13-72
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:37:13-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:39:13-43:29
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:40:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:40:17-69
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:40:25-66
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:42:17-77
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:42:27-74
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:43:27-74
 activity#com.example.android.product_ai.MainActivity
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:46:9-51:20
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:47:9-52:20
 	android:label
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:47:19-51
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:48:19-51
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:46:19-77
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:47:19-77
 intent-filter#category:name:android.intent.category.DEFAULT
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:48:13-50:29
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:49:13-51:29
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:49:17-76
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:50:17-76
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:49:27-73
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:50:27-73
 activity#com.example.android.product_ai.detailPage
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:55:9-57:15
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:56:9-58:15
 	android:theme
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:56:13-57
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:57:13-57
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:55:19-45
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:56:19-45
 meta-data#preloaded_fonts
-ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:59:9-61:57
+ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:60:9-62:57
 	android:resource
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:61:13-54
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:62:13-54
 	android:name
-		ADDED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:60:13-43
+		ADDED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:61:13-43
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:12:5-71
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:12:5-71
 	android:name
-		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:12:22-68
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:12:22-68
 uses-feature#android.hardware.camera.front
-ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:18:5-20:36
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:18:5-20:36
 	android:required
-		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:20:9-33
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:20:9-33
 	android:name
-		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:19:9-53
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:19:9-53
 uses-feature#android.hardware.microphone
-ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:21:5-23:36
+ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:21:5-23:36
 	android:required
-		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:23:9-33
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:23:9-33
 	android:name
-		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\Owner\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\41b884ca7110b5a4b76cbc9acb012cba\AndroidManifest.xml:22:9-51
+		ADDED from [com.wonderkiln:camerakit:0.13.1] C:\Users\prate\.gradle\caches\transforms-1\files-1.1\camerakit-0.13.1.aar\e83fe0aa130731306e7a5d0b8cdb326d\AndroidManifest.xml:22:9-51
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\Owner\Desktop\p&g\product_ai\app\src\main\AndroidManifest.xml:18:1-65:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+IMPLIED from C:\Users\prate\Documents\Android\product_ai\app\src\main\AndroidManifest.xml:18:1-66:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
