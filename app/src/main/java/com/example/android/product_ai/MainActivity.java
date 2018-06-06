@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Vibrator;
 import android.util.Log;
@@ -37,10 +38,7 @@ public class MainActivity extends Activity{
 
     private Vibrator vibrator;
 
-//    long startTime = 0;
-//    long delay = 0;
-
-    private String tag = "Camera";
+                private String tag = "Camera";
     private ImageView count;
 
 
@@ -78,33 +76,19 @@ public class MainActivity extends Activity{
             @Override
             public void onImage(CameraKitImage cameraKitImage) {
                 btnDetectObject.setVisibility(View.VISIBLE);
-//                delay = SystemClock.uptimeMillis() - startTime;
-//                Log.d(tag, Long.toString(delay));
-//                startTime = SystemClock.uptimeMillis();
-//                Log.d(tag,"Picture Taken");
                 Bitmap bitmap = cameraKitImage.getBitmap();
                 bitmap = Bitmap.createScaledBitmap(bitmap, INPUT_SIZE, INPUT_SIZE, false);
                 bitmaps.add(bitmap);
-//                ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
-//                bitmap.compress(Bitmap.CompressFormat.PNG,100,byteArrayOutputStream);
-//                byte[] bytesArray = byteArrayOutputStream.toByteArray();
-//                delay = SystemClock.uptimeMillis() - startTime;
-//                Log.d(tag,Long.toString(delay));
-
-//                startTime = SystemClock.uptimeMillis();
                 String label = classifier.classifyFrame(bitmap);
-//                imgList imgData = new imgList(bytesArray);
                 classifiedLabel.add(label);
-//                delay = SystemClock.uptimeMillis() - startTime;
-//                Log.d(tag,Long.toString(delay));
                 Log.d(tag,String.valueOf(bitmaps.size()));
 
                 if (bitmaps.size()==1){
                     count.setImageResource(R.drawable.baseline_looks_one_white_24dp);
-                    Toast.makeText(MainActivity.this, "Click to show details!!", Toast.LENGTH_SHORT);
+                    Toast.makeText(MainActivity.this, "Click to show details or take one more shot to compare!!", Toast.LENGTH_SHORT).show();
                 }else if (bitmaps.size()==2){
                     count.setImageResource(R.drawable.baseline_looks_two_white_24dp);
-                    Toast.makeText(MainActivity.this, "Ready to Compare!!", Toast.LENGTH_SHORT);
+                    Toast.makeText(MainActivity.this, "Ready to Compare!!", Toast.LENGTH_SHORT).show();
                 }
 
                 if (bitmaps.size()>=2){
@@ -125,7 +109,6 @@ public class MainActivity extends Activity{
         btnDetectObject.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                startTime = SystemClock.uptimeMillis();
                 if (vibrator.hasVibrator()) {
                     vibrator.vibrate(50);
                 }
@@ -144,7 +127,6 @@ public class MainActivity extends Activity{
                     startActivity(intent);
                     bitmaps.clear();
                     classifiedLabel.clear();
-//                    count.setVisibility(View.INVISIBLE);
                 }
             }
         });
@@ -169,3 +151,4 @@ public class MainActivity extends Activity{
         classifier.close();
     }
 }
+

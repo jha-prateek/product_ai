@@ -71,15 +71,15 @@ public class detailPage extends AppCompatActivity {
                 ArrayList<String> labels = intent.getStringArrayListExtra("byteArr");
                 bitmapArrayList = intent.getParcelableArrayListExtra("images");
                 Log.d("bitmaparray",bitmapArrayList.toString());
-                Bitmap[] bitmapArr = bitmapArrayList.toArray(new Bitmap[bitmapArrayList.size()]);
+//                Bitmap[] bitmapArr = bitmapArrayList.toArray(new Bitmap[bitmapArrayList.size()]);
 //                Bitmap bitmap = BitmapFactory.decodeByteArray(bytes, 0, bytes.length);
 //                String labelIdentified = classifier.classifyFrame(bitmap);
 
                 runOnUiThread(() -> {
-                    if (bitmapArr.length>=2){
+                    if (bitmapArrayList.size()>=2){
                         cardView.setVisibility(View.VISIBLE);
-                        thumb1.setImageBitmap(bitmapArr[0]);
-                        thumb2.setImageBitmap(bitmapArr[1]);
+                        thumb1.setImageBitmap(bitmapArrayList.get(0));
+                        thumb2.setImageBitmap(bitmapArrayList.get(1));
                         title1.setText(labels.get(0));
                         title2.setText(labels.get(1));
                         detail1.setText(getDetails(labels.get(0)));
@@ -88,7 +88,7 @@ public class detailPage extends AppCompatActivity {
                     else
                     {
                         cardView.setVisibility(View.INVISIBLE);
-                        thumb1.setImageBitmap(bitmapArr[0]);
+                        thumb1.setImageBitmap(bitmapArrayList.get(0));
                         title1.setText(labels.get(0));
                         detail1.setText(getDetails(labels.get(0)));
                     }
