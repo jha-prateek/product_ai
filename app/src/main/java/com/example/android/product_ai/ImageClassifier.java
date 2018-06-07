@@ -54,11 +54,10 @@ public class ImageClassifier {
     ImageClassifier(Activity activity) throws IOException {
         tflite = new Interpreter(loadModelFile(activity));
         labelList = loadLabelList(activity);
-        imgData =
-                ByteBuffer.allocateDirect(
+        imgData = ByteBuffer.allocateDirect(
                         4 * DIM_BATCH_SIZE * DIM_IMG_SIZE_X * DIM_IMG_SIZE_Y * DIM_PIXEL_SIZE);
         imgData.order(ByteOrder.nativeOrder());
-    labelProbArray = new float[1][labelList.size()];
+        labelProbArray = new float[1][labelList.size()];
         Log.d(TAG, "Created a Tensorflow Lite Image Classifier.");
     }
 
